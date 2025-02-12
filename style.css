@@ -1,0 +1,16 @@
+html{
+    background: blanchedalmond;
+}
+
+h2, h3{
+    font-size: 40px;
+    background-color: black;
+    color: blue;
+}
+strong{
+    color: red;
+}
+h2.judul, .paragraf{
+    font-style: italic;
+    font-size: 14pt;
+}
